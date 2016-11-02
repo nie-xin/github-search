@@ -3,3 +3,61 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.container--app {
+  width: 550px;
+  padding: 50px 25px 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.list {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: left;
+  font-size: 20px;
+  margin-left: 90px;
+}
+
+.list--item {
+  margin: 10px 0;
+}
+
+.list--item a {
+  text-decoration: none;
+}
+
+.list__loading {
+  font-size: 35px;
+  color: blue;
+  text-transform: capitalize;
+}
+
+.list__error {
+  font-size: 35px;
+  color: red;
+  text-transform: capitalize;
+}
+
+.search {
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.search--input {
+  font-size: 28px;
+  height: 35px;
+  min-width: 250px;
+}
+
+.search--submit {
+  font-size: 27px;
+  height: 41px;
+  border: none;
+  padding: 5px 16px;
+}
