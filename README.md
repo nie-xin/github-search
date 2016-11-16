@@ -1,6 +1,6 @@
 # Github search
 
-Search user's repotories by his username!
+Search user's repotories by his username! Try it [here](https://nie-xin.github.io/github-search/)
 
 
 ## Usage
